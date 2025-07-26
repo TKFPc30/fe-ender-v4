@@ -3,7 +3,7 @@
 ]]
 	game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("-gh 48474313 63690008 62234425 62724852 48474294 451220849")
 
-	wait(1
+	wait(1)
 
 	game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("-net")
 
